@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Maths,AI,Total,Average,Grade,Result,Attendance,Attendance_Status
+101,Arun,AIML,88,91,85,264,88.0,B,Pass,96,Eligible
+102,Priya,AIML,92,87,94,273,91.0,A,Pass,98,Eligible
+103,Kavin,CSE,76,81,79,236,78.66666666666667,C,Pass,88,Eligible
+104,Divya,AIML,84,78,89,251,83.66666666666667,B,Pass,92,Eligible
+105,Rahul,CSE,45,52,48,145,48.333333333333336,F,Pass,75,Eligible
+106,Meena,AIML,95,93,97,285,95.0,A,Pass,99,Eligible
+107,Vijay,CSE,67,72,70,209,69.66666666666667,D,Pass,85,Eligible
+108,Anitha,AIML,81,86,83,250,83.33333333333333,B,Pass,90,Eligible
+109,Sanjay,CSE,38,44,41,123,41.0,F,Pass,68,Low Attendance
+110,Kavya,AIML,89,90,92,271,90.33333333333333,A,Pass,97,Eligible
+111,Dinesh,CSE,73,69,75,217,72.33333333333333,C,Pass,82,Eligible
+112,Harini,AIML,97,96,95,288,96.0,A,Pass,100,Eligible
+113,Manoj,CSE,54,58,51,163,54.333333333333336,F,Pass,78,Eligible
+114,Sneha,AIML,86,88,90,264,88.0,B,Pass,94,Eligible
+115,Praveen,CSE,62,65,60,187,62.333333333333336,D,Pass,80,Eligible
+116,Nithya,AIML,78,83,80,241,80.33333333333333,B,Pass,91,Eligible
+117,Gokul,CSE,49,46,53,148,49.333333333333336,F,Pass,72,Low Attendance
+118,Aishwarya,AIML,91,94,88,273,91.0,A,Pass,98,Eligible
+119,Suresh,CSE,82,77,84,243,81.0,B,Pass,89,Eligible
+120,Keerthana,AIML,70,74,72,216,72.0,C,Pass,86,Eligible
